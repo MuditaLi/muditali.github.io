@@ -22,11 +22,9 @@ Data science, Machine learning, Deep Learning, Data engineering, Options & commo
 
 ## Education background
 
-`2015-2017`
+`Sep 2015 - Aug 2017` __Leiden University, Master in Data Science__
 
-__Leiden University, Leiden__
+`Sep 2010 - Jun 2014` __Central University for Nationalities, Bachelor in Economics__
 
-`2010-2014`
 
-__Central University for Nationalities, Beijing__
 
