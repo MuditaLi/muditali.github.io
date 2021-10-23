@@ -1,5 +1,5 @@
 ---
-layout: cv
+layout: default
 title: Marcia's CV
 ---
 # Marcia Li
