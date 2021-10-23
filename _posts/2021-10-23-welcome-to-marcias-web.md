@@ -1,5 +1,5 @@
 ---
-title: "Welcome to Marcia's Web"
+title: "Welcome to FinDS!"
 layout: post
 ---
 
