@@ -18,8 +18,8 @@ minimal: true            # use a dark header
 navigation:                # accepts {file, title, url, icon, sidebaricon}
   - {file: "index.html", title: Home, icon: home}
   - {file: "my_cv.md", title: About, icon: address-card}
-  - {file: "service.html", title: Service}
-  - {file: "course.html", title: Course}
+  - {file: "service.html", title: Service, icon: briefcase}
+  - {file: "course.html", title: Course, icon: chalkboard}
 
 external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
   - {title: Contact, icon: envelope, url: "mailto:marcia0112358@gmail.com"}
