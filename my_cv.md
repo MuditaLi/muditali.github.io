@@ -1,6 +1,6 @@
 ---
-layout: default
 title: Marcia's CV
+layout: post
 ---
 # Marcia Li
 Commodity quant, Data Scientist
