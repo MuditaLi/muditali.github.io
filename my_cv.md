@@ -1,7 +1,9 @@
 ---
 title: Marcia's CV
 layout: post
+tags: about the author
 ---
+
 # 
 Commodity quant, Data Scientist
 
