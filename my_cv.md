@@ -2,7 +2,7 @@
 title: Marcia's CV
 layout: post
 ---
-# Marcia Li
+# 
 Commodity quant, Data Scientist
 
 <div id="webaddress">
