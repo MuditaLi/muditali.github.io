@@ -5,7 +5,7 @@ tags: about the author
 ---
 
 # 
-Commodity quant, Data Scientist
+Commodity Quant, Data Scientist, Options Trader.
 
 <div id="webaddress">
 <a href="marcia0112358@gmail.com">marcia0112358@gmail.com</a>
