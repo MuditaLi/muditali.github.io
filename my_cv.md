@@ -31,7 +31,7 @@ The name as 'FinDS' is combined Fin & Data Science due to author's financial bac
 means the contents here might be more finance oriented. But it can also be explained as: 
 we want to find [the Unicorn Data Scientist](https://hdsr.mitpress.mit.edu/pub/t37qjoi7/release/3).
 
-Instead of finding it, becoming one 🦄.
+Well...instead of finding it, becoming one 🦄.
 
 ## What to expect?
 
