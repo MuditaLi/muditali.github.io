@@ -27,13 +27,19 @@ That's why FinDS has been created. Aiming at helping people growing further and 
 data science skills in different industry, as well as helping corps to get more data science insights
 with their businesses.
 
+The name as 'FinDS' is combined Fin & Data Science due to author's financial background, 
+means the contents here might be more finance oriented. But it can also be explained as: 
+we want to find [the Unicorn Data Scientist](https://hdsr.mitpress.mit.edu/pub/t37qjoi7/release/3).
+
+Instead of finding it, becoming one 🦄.
+
 ## What to expect?
 
 #### 1. Basic data science skills and knowledge sharing.
 
-####2. Data science application with different industries.
+#### 2. Data science application with different industries.
 
-####3. Business insights from the perspective of data science.
+#### 3. Business insights from the perspective of data science.
 
 
 ## About Author
